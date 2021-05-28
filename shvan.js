@@ -27,4 +27,4 @@ client.on("message", message => {
 
 client.login("");
 
-Code By @!                火WTF火SHVAN ᵖʰ#8536
+Code by !                火WTF火SHVAN ᵖʰ#8536
