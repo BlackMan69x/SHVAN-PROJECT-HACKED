@@ -26,5 +26,4 @@ client.on("message", message => {
 });
 
 client.login("");
-
-    By   !                火WTF火SHVAN ᵖʰ#8536
+#code by!  火WTF火SHVAN ᵖʰ#8536
